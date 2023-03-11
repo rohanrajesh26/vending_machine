@@ -1,0 +1,13 @@
+3
+Drink 2
+Chocolate 4
+Beverage 3
+Coke 10 5 6
+Fanta 11 6 7
+5star 20 10 8
+DairyMilk 21 11 9
+Bourneville 22 12 10
+Bounty 23 13 11
+Coffee 30 20 12
+Tea 31 21 13
+IceTea 32 22 14

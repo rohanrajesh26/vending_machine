@@ -1,0 +1,14 @@
+3
+Beverages 3
+Sprite 20 2
+Sting 10 92
+Coke 35 45
+Snacks 3
+Kurkure 10 32
+Lays 5 58
+Doritos 25 53
+Chocolates 3
+Dairy_Milk 45 45
+Kitkat 20 50
+Kaccha_Mango_bite 1 135
+ 0
